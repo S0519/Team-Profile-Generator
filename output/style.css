@@ -9,7 +9,7 @@ body {
 }
 
 
-header {
+.redheader {
     font-family: 'Arial';
     background-color: rgb(255, 0, 76);
     padding: 20px;
@@ -35,7 +35,7 @@ header h2 {
 
 
 #id {
-    width: 180px;
+    width: 210px;
     height: 35px; 
     margin: 10px;
     padding: 5px;
@@ -45,7 +45,7 @@ header h2 {
 
 
 #email {
-    width: 180px;
+    width: 210px;
     height: 35px; 
     margin: 10px;
     padding: 5px;
@@ -54,7 +54,7 @@ header h2 {
 }
 
 #officeNumber {
-    width: 180px;
+    width: 210px;
     height: 35px; 
     margin: 10px;
     padding: 5px;
@@ -63,7 +63,7 @@ header h2 {
 }
 
 #github {
-    width: 180px;
+    width: 210px;
     height: 35px; 
     margin: 10px;
     padding: 5px;
@@ -73,7 +73,7 @@ header h2 {
 
 
 #school {
-    width: 180px;
+    width: 210px;
     height: 35px; 
     margin: 10px;
     padding: 5px;
@@ -92,7 +92,7 @@ header h2 {
 }
 
 .manager {
-    width: 1200px;
+    width: 300px;
     height: 300px;
     margin: 50px;
     border: 1px solid;
@@ -103,7 +103,7 @@ header h2 {
 
 
 .intern {
-    width: 1200px;
+    width: 300px;
     height: 300px;
     margin: 50px;
     border: 1px solid;
@@ -112,8 +112,8 @@ header h2 {
     background-color: rgba(207, 203, 203, 0.493);
 }
 
-.engineeralec {
-    width: 1200px;
+.engineer {
+    width: 300px;
     height: 300px;
     margin: 50px;
     border: 1px solid;
@@ -121,30 +121,6 @@ header h2 {
     box-shadow: 2px 2px 2px rgb(37, 37, 37);
     background-color: rgba(207, 203, 203, 0.493);
 }
-
-.engineergrace {
-    width: 1200px;
-    height: 300px;
-    margin: 50px;
-    border: 1px solid;
-    border-radius: 5px;
-    box-shadow: 2px 2px 2px rgb(37, 37, 37);
-    background-color: rgba(207, 203, 203, 0.493);
-}
-
-.engineertammer {
-    width: 1200px;
-    height: 300px;
-    margin: 50px;
-    border: 1px solid;
-    border-radius: 5px;
-    box-shadow: 2px 2px 2px rgb(37, 37, 37);
-    background-color: rgba(207, 203, 203, 0.493);
-}
-
-
-
-
 
 
 
