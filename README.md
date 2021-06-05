@@ -49,6 +49,12 @@ Call function employeeqs and the html using index.js. The header is in createHTM
 ## URL
 https://s0519.github.io/Team-Profile-Generator/
 
+https://drive.google.com/file/d/1Kj97t6C_nfTKqIJWYB8C0GRSj37CAHWo/view
+https://drive.google.com/file/d/1TXweZPDiJnWDFMl-shtF4YzHdjIAnQFH/view
+https://drive.google.com/file/d/1zz0EzRrzVH6F9LpGh7-sWgj5GxJ-8Auq/view
+
+
+
 
 
 
